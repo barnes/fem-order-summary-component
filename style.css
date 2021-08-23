@@ -35,6 +35,10 @@ main img {
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
 }
+main .icon {
+  width: 48px;
+  height: 48px;
+}
 main h1 {
   color: #1f2f56;
   font-size: 30px;
